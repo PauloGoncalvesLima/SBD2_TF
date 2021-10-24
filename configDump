@@ -1,0 +1,3 @@
+password: password
+uri: mongodb://localhost:27017
+sslPEMKeyPassword: password
